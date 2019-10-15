@@ -2,9 +2,9 @@
 
   <html>
       <head>
-        <title>This is where the page title goes</title>
+        <title> Hello world! </title>
       </head>
     <body>
-        <p>This is where page content goes.</p>
+        <p> Hello world! </p>
     </body>
   </html>
